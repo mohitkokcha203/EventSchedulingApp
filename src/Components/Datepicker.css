@@ -1,0 +1,24 @@
+.main-div{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    
+}
+.date-h2{
+    font-size: 40px;
+    margin-top: 20px;
+    color: gray;
+}
+
+.date-label{
+    font-size: 25px;
+}
+.date-input{
+    font-size: 25px;
+    border-radius: 5px;
+    background-color: rgb(241, 241, 241);
+    color: black;
+    
+
+}

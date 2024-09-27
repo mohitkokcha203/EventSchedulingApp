@@ -1,0 +1,43 @@
+.recureence-h2{
+    font-size: 40px;
+    margin: 30px;
+    color: gray;
+}
+.recureence-main-div{
+    
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        margin: 20px;
+        
+    
+}
+.recureence-label{
+    font-size: 25px;
+}
+.recureence-input{
+    font-size: 25px;
+    border-radius: 10px;
+    background-color: rgb(241, 241, 241);
+    color: black;
+}
+.recureence-input::placeholder{
+    font-size: 20px;
+    padding-left: 5px;
+}
+.recureence-input-interval{
+    font-size: 25px;
+    width: 110px;
+    border-radius: 10px;
+    background-color: rgb(241, 241, 241);
+    color: black;
+}
+
+.recureence-custom-h3{
+    font-size: 20px;
+    color: gray;
+}
+.recureence-custom-day{
+    font-size: 15px;
+    color: gray;
+}

@@ -1,0 +1,11 @@
+.calender-heading{
+    font-size: 40px;
+    margin: 30px;
+    color: gray;
+
+}
+.calender{
+   display: flex;
+   justify-content: center;
+   
+}
