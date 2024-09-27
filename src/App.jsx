@@ -1,9 +1,9 @@
 
 import React from 'react';
 import Header from './Components/Header';
-import DatePicker from './components/DatePicker';
-import RecurrenceOptions from './components/RecurrenceOptions';
-import PreviewCalendar from './components/PreviewCalendar';
+import DatePicker from './Components/DatePicker';
+import RecurrenceOptions from './Components/RecurrenceOptions';
+import PreviewCalendar from './Components/PreviewCalendar';
 import useStore from './hooks/useStore';
 import './index.css';
 import './App.css'
